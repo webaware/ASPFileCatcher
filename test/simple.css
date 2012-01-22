@@ -1,0 +1,18 @@
+body { background-color: palegoldenrod; margin: 3px 20% 3px 20%; }
+
+p, ul, ol, table { font: 11pt Arial, Helvetica, sans-serif; }
+
+h1, h2, h3, h4 { font-family: "Palatino Linotype", "Book Antiqua", "Times New Roman", times, serif; margin-top: 3px; margin-bottom: 3px; text-align: center; }
+
+.center { text-align: center }
+
+/* input form styling */
+
+.inputform			{ border-collapse: collapse; padding: 2px; font: 10pt Arial, Helvetica, sans-serif; }
+.inputform th		{ padding: 2px 10px 2px 5px; vertical-align: middle; white-space: nowrap; text-align: right; }
+.inputform input	{ font: 10pt "MS Sans Serif", Arial, Helvetica, sans-serif; }
+.inputform select	{ font: 10pt "MS Sans Serif", Arial, Helvetica, sans-serif; }
+.inputform textarea	{ font: 10pt "MS Sans Serif", Arial, Helvetica, sans-serif; }
+.inputform input[type="submit"], .inputform input[type="button"]	{ font: bold 10pt Arial, Helvetica, sans-serif; }
+
+.errmsg { font-weight: bold; color: crimson; }
